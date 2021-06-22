@@ -1,4 +1,4 @@
-In I build a **Coffee Planner**  by which you can select your coffe in a restaurant and could order it 
+In this I build a UI for a **Coffee Planner** by which you can select your preferred coffee in a restaurant and could get it. 
 
 ### Refer to image below:
 
